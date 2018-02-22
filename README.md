@@ -1,4 +1,4 @@
-# Research: Office Cache Files
+# Research Project 1: Microsoft Office Upload Center Cache Files Contribution in Forensics Investigation
 
 In this repository you will find all relevant files for a research project into
 Microsoft Office Upload Center Cache Files Contribution in Forensics Investigation, done by Rick van Gorp & Kotaiba Alachkar 
